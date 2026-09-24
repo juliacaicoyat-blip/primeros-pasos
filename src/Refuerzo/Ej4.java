@@ -8,6 +8,7 @@ public class Ej4 {
         int num1;
         System.out.println("Inserte numero");
         num1= a4.nextInt();
+        int num2;
 
         if(num1%10==0){
             System.out.println("es multiplo");
